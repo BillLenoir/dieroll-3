@@ -27,7 +27,7 @@ export default defineComponent({
         games: gamesdata
       }
     }
-    });
+});
 
 
 </script>
